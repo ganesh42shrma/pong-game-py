@@ -1,6 +1,6 @@
 # Pong Game
 
-![Pong Game](path/to/your/image.png)
+![Pong Game](Signed_Pong_Cabinet.jpg)
 
 A classic two-player Pong game implemented in Python using the Turtle graphics library. Players control paddles to hit the ball back and forth, scoring points when the opponent misses. The game features smooth paddle movements, ball bouncing, and a simple yet effective scoring system.
 
